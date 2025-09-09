@@ -1,7 +1,7 @@
 ## Hello Vistor!! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on 3D Avatar AI Chatbot<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Frontend Web Development<br>🌱 I’m currently learning C++<br>💬 Ask me about <br>⚡ Fun fact, I like reading, cycling, coding, etc.
+🔭 I’m currently working AI Agriculture project and an AI Based Internship matching engine<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Frontend Web Development<br>🌱 I’m currently learning C++<br>💬 Ask me about <br>⚡ Fun fact, I like reading, cycling, coding, etc.
 
 
 ## 🌐 Socials:
