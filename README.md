@@ -1,9 +1,9 @@
 ## Hello Vistor!! 👋
 
 # 💫 About Me:
-🔭 I’m currently working AI Agriculture project<br>
-🤝 I’m looking for help with Frontend Web Development<br>
-🌱 I’m currently learning C++<br>
+🔭 I’m currently working AI Project related to Agriculture.<br>
+🤝 I’m looking for help with Web Development & AI ML.<br>
+🌱 I’m currently learning C++, Java.<br>
 ⚡ Fun fact, I like reading, cycling, coding etc.
 
 
